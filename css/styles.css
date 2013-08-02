@@ -52,3 +52,8 @@ body {
 code {
   font-size: 80%;
 }
+
+#assam, #bangalore  {
+  height:170px;
+  width:170px;
+}
